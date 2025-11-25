@@ -1,0 +1,17 @@
+SSH Log Analysis Report - 2025-11-25 23:43:43
+==================================================
+
+Top failed attempts by IP:
+    185.200.12.55  ->  2 failed attempts
+     201.44.23.91  ->  1 failed attempts
+
+Top failed attempts by username:
+            admin  ->  2 failed attempts
+             root  ->  1 failed attempts
+
+Successful logins by username:
+             root  ->  1 successful logins
+             reut  ->  1 successful logins
+
+Potential brute-force sources (>= 10 failures from same IP):
+  (none detected)
